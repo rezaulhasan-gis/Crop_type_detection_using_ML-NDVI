@@ -71,7 +71,7 @@ python s3003337_python_solution.py
 ## How to Reuse This Code
 
 This script can be adapted for other geospatial classification problems. To reuse it:
-
+Checkout the manual 
 - **Modify Input Data**: Replace the NDVI raster and sampling points with your dataset.
 - **Adjust Hyperparameters**: Optimize Random Forest parameters based on your dataset.
 - **Change Feature Names**: Update crop type names and band names as needed.
