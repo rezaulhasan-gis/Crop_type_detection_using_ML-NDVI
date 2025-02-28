@@ -33,12 +33,11 @@ This project focuses on the classification of crop types using multi-temporal No
 - Identified **July, August, April, and May** as the most influential NDVI months for crop classification.
 - Successfully mapped agricultural fields into seven crop types.
 
-## Example Images
 
 ## Example Images
 
 ### 1. Crop Type Distribution Map
-![Crop Type Distribution Map](images/Crop Type Distribution Map.png)
+![Crop Type Distribution Map](images/Crop_Type_Distribution_Map.png)
 
 ### 2. Confusion Matrix
 ![Confusion Matrix](images/Confusion_matrix.png)
