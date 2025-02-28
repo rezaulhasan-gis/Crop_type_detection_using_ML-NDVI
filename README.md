@@ -35,11 +35,17 @@ This project focuses on the classification of crop types using multi-temporal No
 
 ## Example Images
 
-1. **Crop Type Distribution Map**
-2. **Confusion Matrix**
-3. **Feature Importance Analysis**
+## Example Images
 
-(Ensure that the images are stored in a folder named `images` in your repository.)
+### 1. Crop Type Distribution Map
+![Crop Type Distribution Map](images/Crop Type Distribution Map.png)
+
+### 2. Confusion Matrix
+![Confusion Matrix](images/Confusion_matrix.png)
+
+### 3. Feature Importance Analysis
+![Feature Importance Analysis](images/Feature_importance.png)
+
 
 ## Technologies Used
 
