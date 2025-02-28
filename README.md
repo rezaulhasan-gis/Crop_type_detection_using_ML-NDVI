@@ -1,0 +1,1 @@
+# Crop_type_detection_using_ML-NDVI
